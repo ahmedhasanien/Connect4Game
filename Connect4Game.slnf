@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "CSharp_Chat_application\\Connect4ServerApp.sln",
+    "projects": [
+      "Client\\Client.csproj",
+      "E:\\Connect-4-master\\Connect-4-master\\Connect4\\Connect4\\Connect4.csproj",
+      "Server\\Server.csproj"
+    ]
+  }
+}
